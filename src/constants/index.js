@@ -15,7 +15,7 @@ import {
 export const userData = [
     {
         id: 1,
-        name: "Aiman",
+        name: "Goku",
         age: 24,
         hobbies: ["Fishing", "Capping", "Arguing", "Religion Talk"],
         fightStyle: "Kickboxing",
@@ -25,7 +25,7 @@ export const userData = [
     },
     {
         id: 2,
-        name: "Dani",
+        name: "SpongeBob",
         age: 24,
         hobbies: ["Cars", "Coding", "Binbaz", "Bailing on vacation plans"],
         fightStyle: "Boxing",
@@ -35,7 +35,7 @@ export const userData = [
     },
     {
         id: 3,
-        name: "Saroash",
+        name: "King Roo",
         age: 24,
         hobbies: ["Cryptocurrency", "Robbing elderly  women", "CS:GO", "Gym/Nutrition"],
         fightStyle: "Boxing",
@@ -45,7 +45,7 @@ export const userData = [
     },
     {
         id: 4,
-        name: "Rabih",
+        name: "Kazuya",
         age: 24,
         hobbies: ["Hunting", "Cars", "Arguing", "Volleyball"],
         fightStyle: "Brazilian Jiu Jitsu",
@@ -55,7 +55,7 @@ export const userData = [
     },
     {
         id: 5,
-        name: "Siear",
+        name: "Sub Zero",
         age: 25,
         hobbies: ["Soccer", "Snowboarding", "Family time"],
         fightStyle: "Kung-Fu",
@@ -65,7 +65,7 @@ export const userData = [
     },
     {
         id: 6,
-        name: "Ammar",
+        name: "Marshall Law",
         age: 26,
         hobbies: ["Bodybuilding", "Philosphy", "Anime", "Cryptocurrency"],
         fightStyle: "Muay-Thai",
@@ -75,7 +75,7 @@ export const userData = [
     },
     {
         id: 7,
-        name: "Emran",
+        name: "Amir",
         age: 25,
         hobbies: ["Outdoors", "Soccer", "Religion Talk"],
         fightStyle: "Boxing",
@@ -85,7 +85,7 @@ export const userData = [
     },
     {
         id: 8,
-        name: "Harun",
+        name: "Tony",
         age: 24,
         hobbies: ["Hockey", "Motorcycles", "Cars", "Boston Pizza boys night"],
         fightStyle: "Resurgence",
@@ -99,7 +99,7 @@ export const userData = [
 export const chatData = [
     {
       id: 1,
-      name: "Aiman",
+      name: "Goku",
       imgUrl: user1,
       age: 23,
       isOnline: true,
@@ -114,7 +114,7 @@ export const chatData = [
           timestamp: "10:00 AM",
         },
         {
-          sender: "Aiman",
+          sender: "Goku",
           message: "I am doing great, thanks!",
           timestamp: "10:05 AM",
         },
@@ -124,7 +124,7 @@ export const chatData = [
           timestamp: "10:10 AM",
         },
         {
-          sender: "Aiman",
+          sender: "Goku",
           message: "Yes, I'm thinking of going hiking. 🏞️ What about you?",
           timestamp: "10:15 AM",
         },
@@ -134,7 +134,7 @@ export const chatData = [
           timestamp: "10:20 AM",
         },
         {
-          sender: "Aiman",
+          sender: "Goku",
           message: "That would be great! The more, the merrier. 🌟",
           timestamp: "10:25 AM",
         },
@@ -142,7 +142,7 @@ export const chatData = [
     },
     {
       id: 2,
-      name: "Dani",
+      name: "SpongeBob",
       imgUrl: user2,
       age: 23,
       isOnline: false,
@@ -152,11 +152,11 @@ export const chatData = [
       chat: [
         {
           sender: "me",
-          message: "Hey Dani, how have you been?",
+          message: "Hey SpongeBob, how have you been?",
           timestamp: "11:00 AM",
         },
         {
-          sender: "Dani",
+          sender: "SpongeBob",
           message: "I've been good. How about you?",
           timestamp: "11:05 AM",
         },
@@ -166,7 +166,7 @@ export const chatData = [
           timestamp: "11:10 AM",
         },
         {
-          sender: "Dani",
+          sender: "SpongeBob",
           message: "I understand. We should catch up soon! maybe fight soon",
           timestamp: "11:15 AM",
         },
@@ -176,7 +176,7 @@ export const chatData = [
           timestamp: "11:20 AM",
         },
         {
-          sender: "Dani",
+          sender: "SpongeBob",
           message: "Sure, that sounds good. When are you free? 🗓️",
           timestamp: "11:25 AM",
         },
@@ -186,7 +186,7 @@ export const chatData = [
           timestamp: "11:30 AM",
         },
         {
-          sender: "Dani",
+          sender: "SpongeBob",
           message: "Saturday works for me too! Let's meet at our usual spot. 🍔",
           timestamp: "11:35 AM",
         },
@@ -199,7 +199,7 @@ export const chatData = [
     },
     {
       id: 3,
-      name: "Saroash",
+      name: "KingRoo",
       imgUrl: user3,
       age: 23,
       isOnline: true,
@@ -209,11 +209,11 @@ export const chatData = [
       chat: [
         {
           sender: "me",
-          message: "Hi Saroash, how's your day going?",
+          message: "Hi KingRoo, how's your day going?",
           timestamp: "2:00 PM",
         },
         {
-          sender: "Saroash",
+          sender: "KingRoo",
           message: "It's going great! Enjoying the sunshine. How about you?",
           timestamp: "2:05 PM",
         },
@@ -223,7 +223,7 @@ export const chatData = [
           timestamp: "2:10 PM",
         },
         {
-          sender: "Saroash",
+          sender: "KingRoo",
           message: "Don't work too hard! Make sure to take breaks. 🌞",
           timestamp: "2:15 PM",
         },
@@ -234,7 +234,7 @@ export const chatData = [
           timestamp: "2:20 PM",
         },
         {
-          sender: "Saroash",
+          sender: "KingRoo",
           message: "I might go to the gym later. Need to work off some steam. 💪",
           timestamp: "2:25 PM",
         },
@@ -244,7 +244,7 @@ export const chatData = [
           timestamp: "2:30 PM",
         },
         {
-          sender: "Saroash",
+          sender: "KingRoo",
           message: "Definitely! The more, the merrier. 🤸‍♂️",
           timestamp: "2:35 PM",
         },
@@ -252,7 +252,7 @@ export const chatData = [
     },
     {
       id: 4,
-      name: "Rabih",
+      name: "Kazuya",
       imgUrl: user4,
       age: 23,
       isOnline: true,
@@ -262,17 +262,17 @@ export const chatData = [
       chat: [
         {
           sender: "me",
-          message: "Hey Rabih, how's your week been?",
+          message: "Hey Kazuya, how's your week been?",
           timestamp: "3:00 PM",
         },
   
         {
-          sender: "Rabih",
+          sender: "Kazuya",
           message: "It's been busy but good. How about you?",
           timestamp: "3:05 PM",
         },
         {
-          sender: "Rabih",
+          sender: "Kazuya",
           message: "And also tired",
           timestamp: "3:05 PM",
         },
@@ -282,7 +282,7 @@ export const chatData = [
           timestamp: "3:10 PM",
         },
         {
-          sender: "Rabih",
+          sender: "Kazuya",
           message: "That's good to hear. Any exciting plans for the weekend?",
           timestamp: "3:15 PM",
         },
@@ -293,7 +293,7 @@ export const chatData = [
           timestamp: "3:20 PM",
         },
         {
-          sender: "Rabih",
+          sender: "Kazuya",
           message:
             "I'm planning to go boxing with some friends. You should join us sometime!",
           timestamp: "3:25 PM",
@@ -307,7 +307,7 @@ export const chatData = [
     {
       id: 1,
       imgUrl: user1,
-      name: "Aiman",
+      name: "Goku",
       lastName: "M",
       age: 23,
       city: "Humms",
@@ -316,8 +316,8 @@ export const chatData = [
     {
       id: 2,
       imgUrl: user2,
-      name: "Dani",
-      lastName: "A",
+      name: "Sponge",
+      lastName: "Bob",
       age: 23,
       city: "Caracas",
       country: "Venezuela",
@@ -325,8 +325,8 @@ export const chatData = [
     {
       id: 3,
       imgUrl: user3,
-      name: "Saroash",
-      lastName: "R",
+      name: "King",
+      lastName: "Roo",
       age: 23,
       city: "Karachi",
       country: "Pakistan",
@@ -334,8 +334,8 @@ export const chatData = [
     {
         id: 4,
         imgUrl: user4,
-        name: "Rabih",
-        lastName: "A",
+        name: "Kazuya",
+        lastName: "Mishima",
         age: 23,
         city: "Beirut",
         country: "Lebanon",
@@ -343,8 +343,8 @@ export const chatData = [
     {
       id: 5,
       imgUrl: user5,
-      name: "Siear",
-      lastName: "L",
+      name: "Sub",
+      lastName: "Zero",
       age: 25,
       city: "Logar",
       country: "Afghanistan",
@@ -352,8 +352,8 @@ export const chatData = [
     {
       id: 6,
       imgUrl: user6,
-      name: "Ammar",
-      lastName: "A",
+      name: "Bruce",
+      lastName: "Lee",
       age: 26,
       city: "Tehran",
       country: "Iran",
@@ -361,8 +361,8 @@ export const chatData = [
     {
       id: 7,
       imgUrl: user7,
-      name: "Emran",
-      lastName: "S",
+      name: "Amir",
+      lastName: "Khan",
       age: 25,
       city: "Kabul",
       country: "Afghanistan",
@@ -370,8 +370,8 @@ export const chatData = [
     {
       id: 8,
       imgUrl: user8,
-      name: "Harun",
-      lastName: "R",
+      name: "Tony",
+      lastName: "Stark",
       age: 23,
       city: "Gujrat",
       country: "India",
@@ -382,10 +382,10 @@ export const chatData = [
 //main user profile  data
 export const profileData = [
     {
-      name: "Zahid R",
-      age: 24,
+      name: "Triple H",
+      age: 30,
       imgUrl: profile,
-      hobbies: ["Travelling", "Staying Active", "Food"],
-      bio: "Swipe if you want some competition! I have beeing bodybuilding for 7 years(SSL3), am a white belt in Taekwondo and played in OYSL Soccer as a teenager. Might stamina might not be the same as it was in high school but I will still put up a show on a ring that any audience will enjoy",
+      hobbies: ["Wrestling", "Staying Active", "Business"],
+      bio: "Swipe if you want some competition! I have beeing bodybuilding for 12 years(SSL3), am a black belt in Taekwondo and played in OYSL Soccer as a teenager. My stamina might not be the same as it was in high school but I will still put up a show on a ring that any audience will enjoy",
     },
   ];
