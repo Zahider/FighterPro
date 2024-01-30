@@ -38,7 +38,7 @@ export default function HomeScreen() {
           {/*Brand Namd */}
           <View>
             <Text className="text-xl font-semibold text-center uppercase">
-              Fister Pro
+              Fighter Pro
             </Text>
           </View>
 
